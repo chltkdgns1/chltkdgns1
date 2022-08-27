@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-### IDE
+### Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
@@ -19,7 +19,9 @@
 ### Stats
 ![Choi Sang Hoon](https://github-readme-stats.vercel.app/api?username=chltkdgns1&show_icons=true&theme=radical)
 
+### Solved.ac Profile
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgns685)](https://solved.ac/tkdgns685/)
 
 
 
