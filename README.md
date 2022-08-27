@@ -5,7 +5,7 @@
 
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
+![CSh](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
